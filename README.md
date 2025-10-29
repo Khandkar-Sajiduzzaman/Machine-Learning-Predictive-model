@@ -165,7 +165,7 @@ Used **PCA (2D)** projection with **K=2** to visualize natural groupings between
 ---
 
 ## 👨‍💻 Contributors
-**Developed by:** Khandkar Sajid  
+**Developed by:** Khandkar Sajiduzzaman
 **Institution:** BRAC University (BRACU)  
 **Major:** Computer Science & Finance  
 **Specialization:** Cybersecurity, Penetration Testing, and Machine Learning  
